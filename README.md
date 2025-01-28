@@ -25,7 +25,9 @@ Power BI: For data visualization and dashboard creation.
 **📁 Repository Structure**
 
 Sales_Insights_Dashboard.pbix: The Power BI file containing the dashboard.
+
 SQL Scripts/: Contains SQL scripts used for data cleaning and preprocessing.
+
 README.md: Project documentation (this file).
 
 
