@@ -15,7 +15,9 @@ Comprehensive sales summaries.
 Performance metrics by product, region, and time period.
 Visualizations like bar charts, line charts, and KPIs.
 Data-Driven Insights: Enables stakeholders to monitor sales trends, evaluate performance, and identify areas of improvement.
-⚙️ Tech Stack
+
+**⚙️ Tech Stack**
+
 SQL Server: For data cleaning and preprocessing.
 Excel: For statistical and mathematical calculations.
 Python: For data analysis and automation.
