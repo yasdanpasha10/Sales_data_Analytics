@@ -34,36 +34,18 @@ README.md: Project documentation (this file).
 Here’s the list of tasks for this data analysis project:
 
 SQL Data Preprocessing:
-
 Import raw sales data into SQL Server.
-Clean data: handle null values, duplicates, and inconsistent formats.
-Create views or optimized tables for analysis.
-Python Data Analysis:
-
-Perform Exploratory Data Analysis (EDA) using pandas and numpy.
-Generate summary statistics, correlation matrices, and data distributions.
-Visualize data trends using matplotlib and seaborn.
+Clean data: handle null values, duplicates, and inconsistent formats. Create views or optimized tables for analysis.
+Python Data Analysis: Perform Exploratory Data Analysis (EDA) using pandas and numpy. Generate summary statistics, correlation matrices, and data distributions. Visualize data trends using matplotlib and seaborn.
 Excel Calculations:
-
-Perform statistical analysis such as:
-Averages and medians.
-Growth rate calculations.
-Variance and standard deviation.
-Document results for comparison with Power BI visualizations.
-Power BI Visualization:
-
-Connect Power BI to the SQL database.
-Design visualizations for:
-Sales by region, product, and time.
+Perform statistical analysis such as Averages and medians. Growth rate calculations. Variance and standard deviation. Document results for comparison with Power BI visualizations.
+Power BI Visualization: Connect Power BI to the SQL database.
+Design visualizations for: Sales by region, product, and time.
 KPIs like total revenue, profit margin, and growth rates.
 Build an interactive dashboard.
-Automate Workflow:
-
-Use Python to automate repetitive data cleaning tasks.
+Automate Workflow: Use Python to automate repetitive data cleaning tasks.
 Schedule regular SQL queries and dashboard updates.
-Documentation:
-
-Write clear project documentation (README.md).
+Documentation: Write clear project documentation (README.md).
 Explain key insights and findings from the analysis.
 
 **✨ Future Improvements**
