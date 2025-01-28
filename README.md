@@ -19,8 +19,11 @@ Data-Driven Insights: Enables stakeholders to monitor sales trends, evaluate per
 **⚙️ Tech Stack**
 
 SQL Server: For data cleaning and preprocessing.
+
 Excel: For statistical and mathematical calculations.
+
 Python: For data analysis and automation.
+
 Power BI: For data visualization and dashboard creation.
 
 
